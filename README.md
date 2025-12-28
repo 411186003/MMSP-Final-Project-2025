@@ -42,6 +42,7 @@ Artifacts include:
 
 
 ***心得與反思
+
 Through this project, I gained a deeper understanding of binary file formats
 and how image data is represented at the byte level.
 Implementing both encoder and decoder clarified the separation between
